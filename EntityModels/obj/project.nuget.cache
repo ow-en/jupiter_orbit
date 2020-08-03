@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oCGuCM9UoKoxP+X2PkBnI7BSbKbo70ZfBvTTlTuEKKd0ZcosWRQQKkmoQALFaX0X49tH32wBTJO59Ji4mHytEQ==",
+  "success": true,
+  "projectFilePath": "/Users/caulfield/jupiter_orbit/EntityModels/EntityModels.csproj",
+  "expectedPackageFiles": [
+    "/Users/caulfield/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/caulfield/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

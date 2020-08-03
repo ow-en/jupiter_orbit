@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ihgRystqTnov4POBBCxpSrmKT82KeIy7CaAsPTQpTfEqNGIedRDSmY/bLPB6/uocOeYlegsT/BdgiH6IaPHdw==",
+  "success": true,
+  "projectFilePath": "/Users/caulfield/jupiter_orbit/Factory/Factory.csproj",
+  "expectedPackageFiles": [
+    "/Users/caulfield/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/caulfield/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

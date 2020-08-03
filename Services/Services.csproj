@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Universal\Universal.csproj" />
+    <ProjectReference Include="..\IEngines\IEngines.csproj" />
+    <ProjectReference Include="..\IServices\IServices.csproj" />
+    <ProjectReference Include="..\ServiceModels\ServiceModels.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
